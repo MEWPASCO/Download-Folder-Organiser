@@ -1,6 +1,10 @@
 # Download-Folder-Organiser
 A lightweight, automated PowerShell script that dynamically monitors your Windows `Downloads` folder using a `FileSystemWatcher` and automatically organizes incoming files into dedicated subdirectories based on extension types.
 
+> [!IMPORTANT]
+> This script is inspired by this creator @ctrlaltalex on Insta but highly modified to my liking
+> | https://www.instagram.com/p/DXZJ64mjCxZ/
+
 ## Mapping
 
 The script evaluates and routes files into the following directory tree:
