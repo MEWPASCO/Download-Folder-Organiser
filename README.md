@@ -5,6 +5,14 @@ A lightweight, automated PowerShell script that dynamically monitors your Window
 > This script is inspired by this creator @ctrlaltalex on Insta but highly modified to my liking
 > | https://www.instagram.com/p/DXZJ64mjCxZ/
 
+## Contact 
+
+[discord]: https://discord.gg/avia
+
+Come hang out in our community for support, **Destiny 2** guides, archives, and more!
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)][discord]
+
 ## Mapping
 
 The script evaluates and routes files into the following directory tree:
@@ -86,7 +94,3 @@ Want to track more file extensions? Simply open `organise.ps1` and add your requ
 <img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/8894098b-5714-4407-9601-b665197aae46" />
 
 ---
-
-# Contact me through Discord
-
-[![Discord](https://img.shields.io/discord/1196075698301968455?style=social&logo=discord&label=ΛVΛRIΛ)](https://discord.gg/avia)
